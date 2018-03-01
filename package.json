@@ -9,11 +9,14 @@
   },
   "engines": {
     "node": "8.9.3",
-    "npm" : "5.6.0"
+    "npm": "5.6.0"
   },
   "author": "David Goodrich",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "socket.io": "^2.0.4"
   }
 }
